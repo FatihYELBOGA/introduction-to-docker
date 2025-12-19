@@ -1,2 +1,2 @@
-FROM alpine
-CMD ["echo", "Hello, World!"]
+from alpine
+CMD ["echo", "Hello GitHub Actions!!!"]
